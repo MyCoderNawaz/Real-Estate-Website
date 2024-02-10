@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Hinjewadi, Pune",
+      "price": "₹ 30",
+      "detail": "Near to Hinjewadi IT Park.Near to Chinchwad Railway Station.",
+      "image": "./r3.png"
+    },
+    {
+      "name": "Kharadi, Pune",
+      "price": "₹ 25",
+      "detail": "2, 3 & 4 BHK Apartments & Duplexes, 30+ Floors, Spread across 12.5 Acres",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Viman Nagar",
+      "price": "₹ 29",
+      "detail": "Landscaped gardens, swimming pool, olympic size swimming pool, tree.",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Lohe Gaon, Pune",
+      "price": "₹ 19",
+      "detail": "play area are some of the prominent amenities.Accessibility to key landmarks.",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Pimpri, Pune",
+      "price": "₹ 21",
+      "detail": "Gate No. 57, River Road, Chikhali Shiv Moshi, Pimpri Chinchwad, Pune",
+      "image": "./r3.png"
+    },
+    {
+      "name": "Lonavala, Pune",
+      "price": "₹ 27",
+      "detail": "Schools, malls, shopping, hospitals, banks are situated in close vicinity",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Baner, Pune",
+      "price": "₹ 35",
+      "detail": "Gated community, community hall and center to enhance your living style",
+      "image": "./r3.png"
+    }
+  ]
+  
